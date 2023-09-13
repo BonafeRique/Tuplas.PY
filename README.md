@@ -12,8 +12,8 @@ Usando os conceitos básicos de tuplas com alguns exercícios práticos em deman
 
 ## 🛠️ Tecnologias utilizadas:
 
-> Colab Google
-> Python
+- Colab Google
+- Python
 
 ## Versões:
 
@@ -22,4 +22,3 @@ Usando os conceitos básicos de tuplas com alguns exercícios práticos em deman
 ## Autores:
 
 > Henrique Buontempi Bonafé
->
